@@ -1,2 +1,2 @@
 # Quiz-Application
- A terninal based quiz application made using PHP script
+ A terminal based quiz application made using PHP script
